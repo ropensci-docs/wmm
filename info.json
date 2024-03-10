@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8813008624200b43ea69ae9714402e2209bf6eaf",
+    "author": "Will Frierson <will.frierson@gmail.com>",
+    "time": "2023-10-07 23:58:46",
+    "files": 3,
+    "merge": false,
+    "message": "main: Updating DESCRIPTION, NAMESPACE, and manual.\n"
+  },
+  "repo": "https://github.com/wfrierson/wmm",
+  "pkg": "wmm"
+}

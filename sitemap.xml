@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/wmm/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/CONTRIBUTING.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/articles/wmm-vignette.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/news/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/reference/GetMagneticFieldWMM.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wmm/reference/index.html</loc>
+  </url>
+</urlset>
