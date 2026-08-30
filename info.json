@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "be10b32127718b2084f9574e65eab55c3b38e3da",
+    "author": "Will Frierson <will.frierson@gmail.com>",
+    "time": "2025-06-15T00:21:44Z",
+    "files": 19,
+    "merge": true,
+    "message": "Merge pull request #6 from wfrierson/add_2025_coefficients\n\nAdd 2025 coefficients"
+  },
+  "repo": "https://github.com/wfrierson/wmm",
+  "pkg": "wmm",
+  "time": "2026-08-30T07:10:36Z"
+}
